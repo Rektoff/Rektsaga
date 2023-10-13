@@ -6,7 +6,7 @@ Rektsaga - is an educational leverage for every web3 security engineer and resea
 
 
 - Repos:
-   - https://github.com/Rektoff/RustBlock-Outpost
+   - [RustBlock-Outpost](https://github.com/Rektoff/RustBlock-Outpost)
      
 - Articles:
   - [RustBlockSec #1](https://mirror.xyz/0xc34B1730BA53abD717a1E57A358F39C046053581/DLhgR1FqmKdTZyzxilIzykRCIGzEe0lgkhf6VYvnv-E)
