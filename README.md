@@ -1,5 +1,6 @@
 # Rektsaga
-![Rektsagaй](https://github.com/Rektoff/Rektsaga/assets/144442822/a98c188b-a787-42c0-b920-50d6706937fe)
+![Rektsagaй](https://github.com/Rektoff/Rektsaga/assets/144442822/1f2cec0b-e517-4398-adf0-388dc1b9d181)
+
 
 Rektsaga - This is an educational spot for every web3 security engineer and researcher. Here, we have collected all the materials that will assist you in your professional journey. It focuses on Rust-related topics, as well as other EVM and Non-EVM languages/frameworks. Boost your progress by exploring the resources provided below. Touché ><
 
